@@ -1,16 +1,30 @@
-### Hi there 👋
+### :chart_with_upwards_trend: Github Status
+![My Github Status](https://github-readme-stats.vercel.app/api?username=sieuwe1&show_icons=true&hide_border=true&theme=radical)
+<!---  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieuwe1&show_icons=true&hide_border=true&theme=radical&hide=CSS,JavaScript) -->
+
+### 🏆 Github Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=sieuwe1&theme=monokai&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)
+
+### :video_camera: Last Video
+[![youtube video](https://img.youtube.com/vi/n0RhimFSIDw/0.jpg)](https://www.youtube.com/watch?v=n0RhimFSIDw)
+
+### 👨‍💻 About Me 
+I am a third year computer science student located in Eindhoven Netherlands. Besides school I work on my own on interesting projects in the Artifical Intelligence and Computer Vision domain. Particarly I am interested in autonomous systems like self driving vehicles. I truly believe in OpenSource code and that is why everything I make is Open Source and free to use by anyone! Interested in my self driving ATV or other projects? Then check out my github and Youtube channel!
+
+### :wrench: :hammer: Tools
+[![Arduino](https://img.shields.io/badge/-Arduino-green?style=flat&logo=arduino&link=https://github.com/sieuwe1)]
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/sieuwe1)]
+[![OpenCV](https://img.shields.io/badge/-OpenCV-blue?style=flat&logo=opencv&link=https://github.com/sieuwe1)]
+[![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/sieuwe1)]
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/sieuwe1)]
 
 <!--
-**sieuwe1/sieuwe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 👀 Active Repo's
+[![Lane_Detection](https://github-readme-stats.vercel.app/api/pin/?username=MaybeShewill-CV&repo=lanenet-lane-detection&theme=radical)](https://github.com/MaybeShewill-CV/lanenet-lane-detection)
+[![BiseNetV2](https://github-readme-stats.vercel.app/api/pin/?username=MaybeShewill-CV&repo=bisenetv2-tensorflow&theme=radical)](https://github.com/MaybeShewill-CV/bisenetv2-tensorflow)
 -->
+
+### ☕ Get In Touch
+:rocket: [Sieuwe.eu](https://sieuwe.eu/)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sieuwe1.visitor-badge)
